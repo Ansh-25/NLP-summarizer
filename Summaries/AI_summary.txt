@@ -1,0 +1,1 @@
+It deals with developing smart machines that can operate without human interaction. Google assistance and Siri in iPhone is a virtual assistance program which is an example of Artificial Intelligence. We have heard of self-controlling cars
